@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Cytuj konkretną wersję biblioteki; współautorów dodawaj po potwierdzeniu wkładu."
-title: "REPLACE_LIB_TITLE"
+title: "Experimental Design and Reproducibility"
 type: software
 authors:
   - family-names: "Pomianek"
