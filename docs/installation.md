@@ -1,5 +1,3 @@
-# Instalacja
+# Local installation
 
-Uzupełnij **po** wdrożeniu konkretnego stosu technologicznego. Opisz wymagania systemu, instrukcję środowiska izolowanego, sposób użycia stabilnego wydania i sprawdzenie checksum.
-Przykłady mają używać przypiętej wersji, tagu lub SHA, nie przypadkowego HEAD.
-Zależności nie są instalowane automatycznie podczas walidacji szablonu.
+Python 3.11+. From a verified checkout run `python -m pip install .` in an isolated virtual environment. No published distribution. Run `python -m unittest discover -s tests -v` for source tests.
